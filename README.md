@@ -1,1 +1,1 @@
-# Telegram-Rsi-Bot
+Telegram: @outcryrsibot
