@@ -51,7 +51,7 @@ def error(update, context):
 
 def main():
     """Start the bot."""
-    updater = Updater("1812125027:AAH8AX_LLSzj3OzNzJEHVJiHZ4UEJvo9FRU", use_context=True)
+    updater = Updater("TELEGRAM KEY", use_context=True)
     dp = updater.dispatcher
 
     
