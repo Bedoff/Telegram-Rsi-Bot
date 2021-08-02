@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 def start(update, context):
     update.message.reply_text('Hoşgeldin')
-    update.message.reply_text('Bu bot sayesinde istediğin coinlerin saatlik olarak rsi hesaplamasını alabileceksin')
+    update.message.reply_text('Bu bot sayesinde istediğin coinlerin saatlik olarak rsi hesaplamasını alabileceksin')  #şuan için böyle çalışmıyor aşağıda belirlenmiş coinlerin sinyallerini veriyor
     update.message.reply_text('Eğer yardıma ihtiyacın olursa /help yazabilirsin')
     update.message.reply_text('Unutma ki bu bot geliştirilme sürecindedir veriler yatırım tavsiyesi değildir')
     i=0
